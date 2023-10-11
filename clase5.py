@@ -16,5 +16,6 @@ cadena = "Soy una CaDEna de texto de PRUEBAS"
 #Cada primera letra esta en mayuscula
 #print(cadena.title())
 
-print(cadena.upper())
+#mayuscula y minuscula
+#print(cadena.upper())
 print(cadena.lower())
